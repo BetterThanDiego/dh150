@@ -1,13 +1,11 @@
 # dh150
-DH150 Assignment01: Heuristic Evaluation by Andrew Nguyen
-Motivation + description of the community of your choice -- 3-5 sentences.
+DH150 Assignment01: Pubmed Heuristic Evaluation by Andrew Nguyen DH 150
+Motivation + description of the community of your choice: Pubmed is a major database and community for academic research in medicine. Public health is dependent on the ongoing updates and new developments that research delivers it, and keeping the public up-to-date on this information is vital to improving patient care and health. Publications and updates follow the ever-changing healthcare landscape, and maintaining an efficient forum to discuss topics and discoveries is foundational to the effectiveness of research. A heuristic evaluation of the website's design interface can determine its usefulness in showing health information and facilitating research creation, submission, and retrieval.
 
-The information about the web/app/project. (desirably with visuals)
-
-------- REPEAT -------
-
-Information about the web/app for the first heuristic evaluation
-Weblink
+URL: https://www.ncbi.nlm.nih.gov/pubmed/
+Screenshot: 
+Brief Information:
+Overall Evaluation:
 
 Brief evaluation of the web/app - overall impression and ux issues you found that you can imporve.
 
