@@ -7,16 +7,16 @@ URL: https://www.ncbi.nlm.nih.gov/pubmed/
 
 Screenshot: ![dh150](Screenshot_1.png)
 
-Brief Information:
+Brief Information: Pubmed is a free resource by the National Center of Biotechnology Information and the National Institute of Health that holds over 30 million peer reviewed literature articles covering the life sciences, healthcare, and bioengineering. Publishers and journals may submit work from their respective contributors and share their research with the Pubmed community.
 
-Overall Evaluation:
+Overall Evaluation: Overall, Pubmed appears to be a usable web application with reasonable usage of design heuristics.
 
 Brief evaluation of the web/app - overall impression and ux issues you found that you can imporve.
 
-1: Visibility of system status
-Example: Battery Status, Network Status
+1: Visibility of system status. Severity rating: 3
 
-Severity rating (1), for example
+There is an exhaustive resource list, popular resources, news and blog, and search option categories to navigate on the home page. Clicking on these items often leads to a different home page for another website, which can be disorienting to the user. Within each of these categories lies many different databases, and users can get lost when trying to view their needed databases. Visibility of system status is not transparent and the user cannot predict where links will eventually lead them to the information they are looking for. The URL does not provide this information, and there is no display that shows where the user is located within the web application. However, the usage of regular 
+
 
 2: Match between system and the real world
 Example: Left-Right sign, bad elevator buttons
@@ -45,5 +45,3 @@ Example: required field*, internet connection warning, (404 error)
 
 10: Help and documentation
 Example: help page, faq form, search, find out more -- chat/online help, provide tour/training.
-
-------- REPEAT -------
