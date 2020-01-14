@@ -27,23 +27,33 @@ Pubmed is geared towards resarchers, scientists, and medical professionals. It a
 It is difficult to feel in control using Pubmed's design interface. Although traditional browsers back and forward controls exist, there is no "emergency exit", allowing users to navigate back and forth between pages. However, the user is able to click back to the home page directly using the 
 "Pubmed.gov" image on the upper left, but due to the complexity and length of possible pathways, its frustrating to not be able to reverse to previous pages. The Search Bar option is free and easy to use, however.
 
-4: Consistency and standards. Severity rating: 3
+4: Consistency and standards. Severity rating: 2
 Example: button label (login-), function of icon (go back to home), location of the icon/menu/layout
 
-5: Error prevention. Severity rating: 3
-Example: booking system that prevents the previous date to the departure,warning messsage about duplicated filename, password setting
+Because web links often lead to different web sites apart from Pubmed (for example, some links may lead to websites deisigned by different parts of the NIH), there is little consistency in user interface. Layouts are vastly different between web pages. This leads to unpredictability. However, the home page, the login page, and the search bar are located in conventional locations that users would usually find familiar.
 
-6: Recognition rather than recall. Severity rating: 3
+5: Error prevention. Severity rating: 1
+
+The home page offers a plethora of suggestions that researchers may be interested in through quick links, such as "Clinical Trials", "Full Text Articles", and "MeSH Database". With the inclusion of a search bar, the interface is highly specific and not error prone, albeit noisy. These suggestions help users get to their desired location faster. The search bar also provides suggestions as well, and allows users to customize their search for more specificity. Good defaults for the search engine help optimize search queries, such as pre-checking peer reviewed journals and sorting research articles by most recent.
+
+6: Recognition rather than recall. Severity rating: 2
 Example: 404 error (code errors), autofill
 
-7: Flexibility and efficiency of use
-Example: short cut, copy+paste
+Because of the different websites linked in the home page, interfaces are vastly different and users must learn to recognize each website's own interface to use them. Although interface functions are accessible, navigation elements are not consistent and change between web pages. There is no history or previously visited content action aside from normal internet browsing functions. Instructions to use the system are available on the home page, but users must navigate back to the home page to read instructions. However, search suggestions allow users to recognize and therefore optimize their search queries.
 
-8: Aesthetic and minimalist design. Severity rating: 3
-Example: bad background design
+7: Flexibility and efficiency of use. Severity rating: 1
 
-9: Help users recognize, diagnose, and recover from errors. Severity rating: 3
-Example: required field*, internet connection warning, (404 error)
+Due to the vastness of the various actions and elements on the home page, there are plenty of accelerators that researchers can use to quickly get to the web page they need. For example, popular pages such as "Latest Literature" and "Trending Articles" are easily visible and accessible from the home page.
 
-10: Help and documentation. Severity rating: 3
+8: Aesthetic and minimalist design. Severity rating: 2
+
+Design is noisy and far from minimal in order to display accelerators. Because of the vast variety of research availability on Pubmed, extra information for one scientist may be necssary information for another, so it is difficult to reconcile both the high number of web links and aesthetics on the home page. However, the background design is clean and simple.
+
+9: Help users recognize, diagnose, and recover from errors. Severity rating: 1
+
+Required fields in the search bar are highlighted. Usual internet connection warnings and 404 errors are also present. Due to the high specificity of web links, users usually do not have to enter their own queries and therefore experience little errors using Pubmed. Search bar errors shows dialogue that helps users recover from errors, such as "no documents match your search terms".
+
+10: Help and documentation. Severity rating: 1
 Example: help page, faq form, search, find out more -- chat/online help, provide tour/training.
+
+A comprehensive help page, faq form, and search is available from the home page. However, live chat and training is not available.
