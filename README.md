@@ -9,7 +9,7 @@ Screenshot: ![dh150](Screenshot_1.png)
 
 Brief Information: Pubmed is a free resource by the National Center of Biotechnology Information and the National Institute of Health that holds over 30 million peer reviewed literature articles covering the life sciences, healthcare, and bioengineering. Publishers and journals may submit work from their respective contributors and share their research with the Pubmed community.
 
-Overall Evaluation: Overall, Pubmed appears to be a usable web application with reasonable usage of design heuristics.
+Overall Evaluation: Overall, Pubmed appears to be a usable web application with reasonable usage of design heuristics. However, due to its complexity to cater to various medical and research professionals, it can be disorienting and confusing to use if users are not familiar with its interface. Because Pubmed is a large collaborative project, many design inconsistencies are also present.
 
 Brief evaluation of the web/app - overall impression and ux issues you found that you can imporve.
 
