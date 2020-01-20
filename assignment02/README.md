@@ -2,7 +2,7 @@
 
 ##description
 
-The purpose of Usability Testing (UT) is to improve the effectiveness, efficiency, and satisfaction of design interfaces when using a website or application. Studies show that having up to 5 different people testing an application can reveal 85% of major issues. Heuristic and usability tests can are an important part of the design process, and its solutions can bring more people, revenue, and value to an application.
+The purpose of Usability Testing (UT) is to improve the effectiveness, efficiency, and satisfaction of design interfaces when using a website or application. Studies show that having up to 5 different people testing an application can reveal 85% of major issues. Heuristic and usability tests can are an important part of the design process, and its solutions can bring more people, revenue, and value to an application. Usually, the test is conducted in a group, remotely, or on-site in a lab with portable equipment and is recorded to find areas of improvement. The session also records user feedback through a form or evaluation.
 
 Based on the Heuristic Evaluation, I would like to test how easy or difficult it is to perform usual functions researchers and clinicians would like to do when using Pubmed. For example: Look up recent research, cite articles, and determine the health efficacy of drugs and medicine. These are normal everyday activities that people should be able to do easily on Pubmed. These tests will determine the effectivness, efficiency, and satisfaction of the design interface.
 
