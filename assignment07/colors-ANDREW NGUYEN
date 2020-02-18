@@ -100,23 +100,23 @@
     
     /* the first screen design */
     #nav01 {
-        background-color: hsl(330, 0%, 100%); /* change this for background color */
-        color: hsl(330, 10%, 50%); /* change this for text color */
+        background-color: #F7F7F7; /* change this for background color */
+        color: black; /* change this for text color */
     }
     #header01 {
-        background-color: lightgray; /* change this for background color */
+        background-color: #456C70; /* change this for background color */
     } 
     
     #title01 {
-        color: pink; /* change this for text color */
+        color: white; /* change this for text color */
     } 
     
     #main01 {
-        background-color: white; /* change this for background color */
+        background-color: #F7F7F7; /* change this for background color */
     }
     
     #subtitle01 {
-        color: lightgray; /* change this for text color */
+        color: black; /* change this for text color */
     } 
     
     #msgtitle01 {
@@ -132,43 +132,43 @@
     } 
     
     #BTN01 {
-        background-color: #4CAF50; /* change this for button color */
-        color: #FFFFFF; /* change this for button label color */
+        background-color: #456C70; /* change this for button color */
+        color: white; /* change this for button label color */
     } 
     
     #footer01 {
-        background-color: black; /* change this for background color */
+        background-color: #B0B0B0; /* change this for background color */
         color: white; /* change this for text color */  
     }
     
     /* the second screen design */
     
     #nav02 {
-        background-color: hsl(330, 0%, 100%); /* change this for background color */
-        color: hsl(330, 10%, 50%); /* change this for text color */
+        background-color: #9FCBCC; /* change this for background color */
+        color: white; /* change this for text color */
     }
     #header02 {
-        background-color: lightgray; /* change this for background color */
+        background-color: #637F80; /* change this for background color */
     } 
     
     #title02 {
-        color: hsl(330, 10%, 50%); /* change this for text color */
+        color: white; /* change this for text color */
     } 
     
     #main02 {
-        background-color: white; /* change this for background color */
+        background-color: #0E7C80; /* change this for background color */
     }
     
     #subtitle02 {
-        color: lightgray; /* change this for text color */
+        color: white; /* change this for text color */
     } 
     
     #msgtitle02 {
-        color: black; /* change this for text color */
+        color: white; /* change this for text color */
     } 
     
     #msgcontents02 {
-        color: black; /* change this for text color */
+        color: white; /* change this for text color */
     } 
     
     #form02 {
@@ -176,43 +176,43 @@
     } 
     
     #BTN02 {
-        background-color: #4CAF50; /* change this for button color */
-        color: #FFFFFF; /* change this for button label color */
+        background-color: #9FCBCC; /* change this for button color */
+        color: black; /* change this for button label color */
     } 
     
     #footer02 {
-        background-color: black; /* change this for background color */
+        background-color: #637F80; /* change this for background color */
         color: white; /* change this for text color */  
     }
     
     /* the third screen design */
     
     #nav03 {
-        background-color: hsl(330, 0%, 100%); /* change this for background color */
-        color: hsl(330, 10%, 50%); /* change this for text color */
+        background-color: #FAFEFF; /* change this for background color */
+        color: black; /* change this for text color */
     }
     #header03 {
-        background-color: lightblue; /* change this for background color */
+        background-color: #EEFCFF; /* change this for background color */
     } 
     
     #title03 {
-        color: hsl(330, 10%, 50%); /* change this for text color */
+        color: black; /* change this for text color */
     } 
     
     #main03{
-        background-color: teal; /* change this for background color */
+        background-color: #94ADB3; /* change this for background color */
     }
     
     #subtitle03 {
-        color: lightgray; /* change this for text color */
+        color: white; /* change this for text color */
     } 
     
     #msgtitle03 {
-        color: black; /* change this for text color */
+        color: white /* change this for text color */
     } 
     
     #msgcontents03 {
-        color: black; /* change this for text color */
+        color: white; /* change this for text color */
     } 
     
     #form03 {
@@ -220,13 +220,13 @@
     } 
     
     #BTN03 {
-        background-color: #4CAF50; /* change this for button color */
-        color: #FFFFFF; /* change this for button label color */
+        background-color: #FFF6ED; /* change this for button color */
+        color: black; /* change this for button label color */
     } 
     
     #footer03 {
-        background-color: black; /* change this for background color */
-        color: white; /* change this for text color */  
+        background-color: #B39982; /* change this for background color */
+        color: black; /* change this for text color */  
     }
 </style>
     
@@ -261,7 +261,7 @@
 
 <article class="screen" id="design02">
     <nav id="nav02"> <i class="material-icons"> menu</i> </nav>
-    <header id="header01"> 
+    <header id="header02"> 
         <h1 id="title02"> Title of YOUR WEB/APP </h1> 
     </header>
     <main id="main02"> 
