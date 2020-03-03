@@ -39,5 +39,5 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ## 10) Pitch video [update the video after recording your presentation]
 
 
-11) conclusion: what you learned throughout the process
+## 11) conclusion: what you learned throughout the process
 
