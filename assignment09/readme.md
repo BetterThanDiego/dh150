@@ -16,9 +16,13 @@ Description of your decision making of the graphical interface design, including
 
 ![One image with the representative examples of screen designs (3-5 screens)](https://github.com/BetterThanDiego/dh150/blob/master/assignment09/Screenshot_8.png)
 
-One image with the wireflow with graphic design:
+One image with the wireflow with graphic design for each function:
 
-![One image with the representative examples of screen designs (3-5 screens)](https://github.com/BetterThanDiego/dh150/blob/master/assignment09/Screenshot_10.png)
+![One image with the representative examples of screen designs (3-5 screens)](https://github.com/BetterThanDiego/dh150/blob/master/assignment09/Screenshot_11.png)
+
+![One image with the representative examples of screen designs (3-5 screens)](https://github.com/BetterThanDiego/dh150/blob/master/assignment09/Screenshot_12.png)
+
+![One image with the representative examples of screen designs (3-5 screens)](https://github.com/BetterThanDiego/dh150/blob/master/assignment09/Screenshot_13.png)
 
 Link to the interactive prototype or embed window that shows the prototype:
 
