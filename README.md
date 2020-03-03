@@ -1,11 +1,21 @@
-## 1) Project title + your name
+## 1) PubMed Redesign
+DH 150 Andrew Nguyen Winter 2020
 
 
-## 2) Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+## 2) Introduction: a brief information about the project.
 
+ Pubmed is a free resource by the National Center of Biotechnology Information and the National Institute of Health that holds over 30 million peer reviewed literature articles covering the life sciences, healthcare, and bioengineering. Publishers and journals may submit work from their respective contributors and share their research with the Pubmed community. As a result, Pubmed is a major database and community for academic research in medicine. Public health is dependent on the ongoing updates and new developments that research delivers it, and keeping the public up-to-date on this information is vital to improving patient care and health. Publications and updates follow the ever-changing healthcare landscape, and maintaining an efficient forum to discuss topics and discoveries is foundational to the effectiveness of research.
 
 ## 3) Clear design statement: 
+
+The purpose and process of prototyping is to determine the overall functionality of the application prior to the design process and perform revisions to best optimize the user experience. A list of tasks that the paper prototype of your system supported:
+
+Feature 1: Automatic and accessible citation tool.
+
+Feature 2: Scrolling for search results provides the summary or abstract of an article under the title so that researchers can easily determine if the article of interest is worthy of further reading.
+
+Feature 3: Bolding or highlighting of search bar terminology within publication and article text.
+
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 
