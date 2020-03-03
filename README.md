@@ -4,11 +4,13 @@ DH 150 Andrew Nguyen Winter 2020
 
 ## 2) Introduction: a brief information about the project.
 
- Pubmed is a free resource by the National Center of Biotechnology Information and the National Institute of Health that holds over 30 million peer reviewed literature articles covering the life sciences, healthcare, and bioengineering. Publishers and journals may submit work from their respective contributors and share their research with the Pubmed community. As a result, Pubmed is a major database and community for academic research in medicine. Public health is dependent on the ongoing updates and new developments that research delivers it, and keeping the public up-to-date on this information is vital to improving patient care and health. Publications and updates follow the ever-changing healthcare landscape, and maintaining an efficient forum to discuss topics and discoveries is foundational to the effectiveness of research.
+ Pubmed is a free resource by the National Center of Biotechnology Information and the National Institute of Health that holds over 30 million peer reviewed literature articles covering the life sciences, healthcare, and bioengineering. Publishers and journals may submit work from their respective contributors and share their research with the Pubmed community. As a result, Pubmed is a major database and community for academic research in medicine. Public health is dependent on the ongoing updates and new developments that research delivers it, and keeping the public up-to-date on this information is vital to improving patient care and health. Publications and updates follow the ever-changing healthcare landscape, and maintaining an efficient forum to discuss topics and discoveries is foundational to the effectiveness of research. This project offers three solutions to redesign Pubmed's interface to better optimize these activities.
 
-## 3) Clear design statement: 
+## 3) Clear design statement:
 
-The purpose and process of prototyping is to determine the overall functionality of the application prior to the design process and perform revisions to best optimize the user experience. A list of tasks that the paper prototype of your system supported:
+The main activity that users will try to do using Pubmed is citing, opening, and searching research articles. However, due to PubMed's complexity to cater to various medical and research professionals, it can be disorienting and confusing to use if users are not familiar with its interface. Many tools critical in using PubMed are not readily available, and are instead often nestled deep inside article web pages rather than immediately accessible from the interface. Additionally, it may be difficult to readily find pertinent search information due to the comprehensive nature of PubMed's website structure and research text. The solution to satisfy this need is to provide citation, abstract viewing, and bolding or highlighting of keyword terminology in-text to effectively cite, open, and search articles for research in an area of interest.
+
+The following three features are focused on to best optimize the user experience:
 
 Feature 1: Automatic and accessible citation tool.
 
@@ -16,7 +18,7 @@ Feature 2: Scrolling for search results provides the summary or abstract of an a
 
 Feature 3: Bolding or highlighting of search bar terminology within publication and article text.
 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+It is important to resolve these issues in maintaining and updating a user-friendly forum that discuss topics and discoveries that are foundational to the effectiveness of research. Public health is dependent on the ongoing updates and new developments that research delivers it, and keeping the public up-to-date on this information is vital to improving patient care and health. Publications and updates follow the ever-changing healthcare landscape, and striving for an accessible and optimized user experience helps facilitate this goal.
 
 
 ## 4) Competitor analysis [assignment01 & 02]:
