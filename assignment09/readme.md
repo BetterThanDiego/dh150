@@ -24,6 +24,8 @@ One image with the wireflow with graphic design for each function:
 
 ![One image with the representative examples of screen designs (3-5 screens)](https://github.com/BetterThanDiego/dh150/blob/master/assignment09/Screenshot_13.png)
 
+![One image with the representative examples of screen designs (3-5 screens)](https://github.com/BetterThanDiego/dh150/blob/master/assignment09/Screenshot_14.png)
+
 Link to the interactive prototype or embed window that shows the prototype:
 
 https://xd.adobe.com/view/07622897-699a-4b90-554c-6a1c07d2905c-7153/?fullscreen&hints=off
