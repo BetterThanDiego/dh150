@@ -4,7 +4,7 @@ Motivation + description of the community of your choice: Pubmed is a major data
 
 URL: https://www.ncbi.nlm.nih.gov/pubmed/
 
-Screenshot: dh150
+Screenshot: ![dh150](Screenshot_1.png)
 
 Brief Information: Pubmed is a free resource by the National Center of Biotechnology Information and the National Institute of Health that holds over 30 million peer reviewed literature articles covering the life sciences, healthcare, and bioengineering. Publishers and journals may submit work from their respective contributors and share their research with the Pubmed community.
 
