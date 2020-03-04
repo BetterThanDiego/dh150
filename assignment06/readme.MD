@@ -18,7 +18,11 @@ Wireframe and wireflow:
 
 A set of pictures of the prototype in different states, showing it being tested:
 
-   
+![Image description](https://github.com/andmnguyen/dh150/blob/master/assignment06/Picture2.png)
+
+![Image description](https://github.com/andmnguyen/dh150/blob/master/assignment06/Picture3.png)
+
+![Image description](https://github.com/andmnguyen/dh150/blob/master/assignment06/Picture4.png)
 
 A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype:
 
