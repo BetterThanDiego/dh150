@@ -10,7 +10,7 @@ I will visit a hospital where a student intern is doing research. I will observe
 
 Link to your contextual inquiry guide (script)
 
-https://docs.google.com/document/d/1Y2EV0jDfMrD2p-3Y8efF2POPYlmsH3LKS46HsKcRJGk/edit?usp=sharing
+https://github.com/andmnguyen/dh150/blob/master/assignment04/script
 
 Link to your data - images/ audio/video file
 
