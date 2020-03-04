@@ -14,7 +14,7 @@ Feature 3: Bolding or highlighting of search bar terminology within publication 
 
 Wireframe and wireflow:
 
- 
+![Image description](Picture1)
 
 A set of pictures of the prototype in different states, showing it being tested:
 
