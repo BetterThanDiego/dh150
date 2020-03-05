@@ -24,6 +24,8 @@ It is important to resolve these issues in maintaining and updating a user-frien
 ## 4) Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+[assignment01](https://www.google.com)
+
 
 ## 5) User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
