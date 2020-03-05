@@ -25,30 +25,38 @@ It is important to resolve these issues in maintaining and updating a user-frien
 
 Overall, [PubMed](https://github.com/andmnguyen/dh150/tree/master/assignment01) appears to be a usable web application with reasonable usage of design heuristics. However, due to its complexity to cater to various medical and research professionals, it can be disorienting and confusing to use if users are not familiar with its interface. Because Pubmed is a large collaborative project, many design inconsistencies are also present.
 
-![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment01/Screenshot_1.png)
-
 [assignment01](https://github.com/andmnguyen/dh150/tree/master/assignment01)
 [assignment02](https://github.com/andmnguyen/dh150/tree/master/assignment02)
 
+![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment01/Screenshot_1.png)
+
 
 ## 5) User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
 
+Contextual inquiry is incredibly informative on how users think and interpret UX / UI design. As a designer, it may seem intuitive or simple on how to perform normal functions. But at the end of the day, UX / UI design exists to serve users, and should be approache das such. Target users are researchers, scientists, and clinicians working in the health field. Demographics are young to older adults, who prefer efficient and comprehensive modes to access information. Users are likely experts in their respective health and scientific fields. The users can traditionally do these activities at a library or alternatively on Pubmed. To complete this activity, users would type their subject of interest in the search bar, scroll for any interesting articles, open that aricle, and cite that source as needed for research purposes.
+
+[assignment04](https://github.com/andmnguyen/dh150/tree/master/assignment04)
 
 ## 6) UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 
+[assignment05](https://github.com/andmnguyen/dh150/tree/master/assignment05)
 
 ## 7) Wireframe and graphic design element variation [assignment07 + part of 08]
 
+[assignment07](https://github.com/andmnguyen/dh150/tree/master/assignment07)
+
+[assignment08](https://github.com/andmnguyen/dh150/tree/master/assignment08)
 
 ## 8) Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
+[assignment07](https://github.com/andmnguyen/dh150/tree/master/assignment07)
 
 ## 9) High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
+[assignment08](https://github.com/andmnguyen/dh150/tree/master/assignment08)
 
 ## 10) Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
