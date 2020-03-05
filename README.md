@@ -22,9 +22,13 @@ It is important to resolve these issues in maintaining and updating a user-frien
 
 
 ## 4) Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-[assignment01](https://www.google.com)
+Overall, [PubMed](https://github.com/andmnguyen/dh150/tree/master/assignment01) appears to be a usable web application with reasonable usage of design heuristics. However, due to its complexity to cater to various medical and research professionals, it can be disorienting and confusing to use if users are not familiar with its interface. Because Pubmed is a large collaborative project, many design inconsistencies are also present.
+
+![alt text](https://www.ncbi.nlm.nih.gov/pubmed/)
+
+[assignment01](https://github.com/andmnguyen/dh150/tree/master/assignment01)
+[assignment02](https://github.com/andmnguyen/dh150/tree/master/assignment02)
 
 
 ## 5) User research [contextual inquiry, assignment04]:
