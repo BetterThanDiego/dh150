@@ -38,7 +38,8 @@ Contextual inquiry is incredibly informative on how users think and interpret UX
 [assignment04](https://github.com/andmnguyen/dh150/tree/master/assignment04)
 
 ## 6) UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+
+Students, clinicians, and researchers are different personas that may use PubMed. Understanding the perspective of each persona helps develop practical and functional improvements in the new application. We follow the story of three individuals, Natalie, Dr. Wilson, and Dr. Kim, who try to understand their perspective in the PubMed user experience. For each user, we propose a new function in response to user experience scenarios through journey maps.
 
 [assignment05](https://github.com/andmnguyen/dh150/tree/master/assignment05)
 
