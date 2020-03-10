@@ -40,7 +40,7 @@ Students, clinicians, and researchers are different personas that may use PubMed
 
 ## 7) Wireframe and graphic design element variation:
 
-![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment06/Picture1.png)
+![alt text](/assignment06/Picture1.png)
 
 [Graphic Design Variation](https://andmnguyen.github.io/dh150/assignment07/colors-ANDREW-NGUYEN.html)
 
@@ -66,7 +66,7 @@ Feature 2: Scrolling for search results provides the summary or abstract of an a
 
 Feature 3: Bolding or highlighting of search bar terminology within publication and article text.
 
-![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment09/Screenshot_14.png)
+![alt text](/assignment09/Screenshot_14.png)
 
 Read more about the [high fidelity prototype](https://github.com/andmnguyen/dh150/tree/master/assignment08) and [test the prototype](https://xd.adobe.com/view/07622897-699a-4b90-554c-6a1c07d2905c-7153/?fullscreen&hints=off).
 
