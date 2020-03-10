@@ -56,7 +56,7 @@ Feature 2: Scrolling for search results provides the summary or abstract of an a
 
 Feature 3: Bolding or highlighting of search bar terminology within publication and article text.
 
-## 9) High-fidelity prototype
+## 9) High-fidelity prototype:
 
 The purpose and process of prototyping is to determine the overall functionality of the application prior to the design process and perform revisions to best optimize the user experience. A list of tasks that this prototype supports:
 
@@ -70,7 +70,8 @@ Feature 3: Bolding or highlighting of search bar terminology within publication 
 
 Read more about the [high fidelity prototype](https://github.com/andmnguyen/dh150/tree/master/assignment08) and [test the prototype](https://xd.adobe.com/view/07622897-699a-4b90-554c-6a1c07d2905c-7153/?fullscreen&hints=off).
 
-## 10) Optional evaluation and revision history 
+## 10) Optional evaluation and revision history:
+
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 See the [cognitive walkthrough video](https://drive.google.com/file/d/1p_r7SAc38xTgsVAlPdaLGJsTjSwkqdJi/view?usp=sharing) and [impression test video](https://drive.google.com/file/d/1NZkgxMos3SafZfGmAQhiWRmt4-F-AKBM/view?usp=sharing). View the [accessibility audit](https://github.com/andmnguyen/dh150/tree/master/assignment08).
@@ -83,10 +84,10 @@ During this test, I learned that usability testing requires a lot of patience. A
 
 Previously, when viewing the citation and abstract pages in the search results, users could not navigate between citation, abstract, and the full research article from the citation and abstract pages. This was a frustrating experience for my testers who stated that instead of having to exit out of the page after viewing the abstract or citation and then click on the full paper to access the full paper, they would have liked a direct way to access the full research article for papers that they liked. Also, they would like to access citations, abstract, and the full paper without having to exit out of their current window. I learned that users need to be able to speedily access all parts of the wireframe using the least amount of clicks possible, and that convenience and speed is incredibly important, especially for work intensive tasks such as research. As a result, I included links that allowed users to navigate between the abstract, citations, and full paper in the interactive prototype linked above. View [the old prototype](https://xd.adobe.com/view/f92ef2d6-352a-4ead-5c21-11a28b8bad16-8f1f/?fullscreen&hints=off).
 
-## 10) Pitch video [update the video after recording your presentation]
+## 10) Pitch video [update the video after recording your presentation]:
 
 
-## 11) conclusion: what you learned throughout the process
+## 11) conclusion: what you learned throughout the process:
 
 For me, the most important learning experience throughout this process was that UX / UI is far more than creating a nice design. I came into the course thinking that I was going to learn how to create aesthetic designs, but UX / UI turned out to be much more complex. Rather, it is a workflow that supports a sustainable and productive relationship between designer and user that is ultimately user oriented. Although it may seem like so many tedious steps, each step breaks down the creation process to one that places users first. From the impression tests to journey maps, we must place ourselves as close to the the user as possible to understand their mindset. As a result, although the interface may be appear the focus, UX / UI is really just a conduit for users to perform the functions that they'd like to do. In this way, the forefront of UX / UI isn't really UX / UI, but the users themselves. This user oriented approach is not easy, and requires patience, systematic practice, and teamwork with users. Moving forward, I'd like to keep these ideas in mind to structure how I perform UI / UX work, and hope to continue to apply them to create great and efficent designs.
 
