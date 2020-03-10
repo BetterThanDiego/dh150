@@ -5,6 +5,8 @@ DH 150 Andrew Nguyen Winter 2020
 ## 2) Introduction: a brief information about the project.
 
  [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) is a free resource by the National Center of Biotechnology Information and the National Institute of Health that holds over 30 million peer reviewed literature articles covering the life sciences, healthcare, and bioengineering. Publishers and journals may submit work from their respective contributors and share their research with the Pubmed community. As a result, Pubmed is a major database and community for academic research in medicine. Public health is dependent on the ongoing updates and new developments that research delivers it, and keeping the public up-to-date on this information is vital to improving patient care and health. Publications and updates follow the ever-changing healthcare landscape, and maintaining an efficient forum to discuss topics and discoveries is foundational to the effectiveness of research. This project offers three solutions to redesign Pubmed's interface to better optimize these activities.
+ 
+ ![alt text](https://www.upei.ca/sites/default/files/styles/crop_header_image/public/116-18N-0104-M.jpg?h=1c60208e&itok=_54xmtpr)
 
 ## 3) Clear Design Statement:
 
