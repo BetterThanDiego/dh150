@@ -36,13 +36,13 @@ Contextual inquiry is incredibly informative on how users think and interpret UX
 
 Students, clinicians, and researchers are different personas that may use PubMed. Understanding the perspective of each persona helps develop practical and functional improvements in the new application. We follow the story of three individuals, Natalie, Dr. Wilson, and Dr. Kim, who try to understand their perspective in the PubMed user experience. For each user, we propose a new function in response to user experience scenarios through journey maps. Read [personas and scenarios](https://github.com/andmnguyen/dh150/tree/master/assignment05).
 
-## 7) Wireframe and graphic design element variation
+## 7) Wireframe and graphic design element variation:
 
 ![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment06/Picture1.png)
 
 [Graphic Design Variation](https://andmnguyen.github.io/dh150/assignment07/colors-ANDREW-NGUYEN.html)
 
-## 8) Low-fidelity prototype
+## 8) Low-fidelity prototype:
 
 The purpose of low-fidelity prototyping is to determine the overall functionality of the application prior to the design process. Common personas kept in mind during this process are students, clinicians, and scientific researchers that are hoping to cite, search, and survey research literature. Read more about the [low fidelity prototype](https://github.com/andmnguyen/dh150/tree/master/assignment06).
 
@@ -63,6 +63,8 @@ Feature 1: Automatic and accessible citation tool.
 Feature 2: Scrolling for search results provides the summary or abstract of an article under the title so that researchers can easily determine if the article of interest is worthy of further reading.
 
 Feature 3: Bolding or highlighting of search bar terminology within publication and article text.
+
+![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment09/Screenshot_14.png)
 
 Read more about the [high fidelity prototype](https://github.com/andmnguyen/dh150/tree/master/assignment08) and [test the prototype](https://xd.adobe.com/view/07622897-699a-4b90-554c-6a1c07d2905c-7153/?fullscreen&hints=off).
 
