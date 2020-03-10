@@ -27,7 +27,7 @@ It is important to resolve these issues in maintaining and updating a user-frien
 
 Overall, [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) appears to be a usable web application with reasonable usage of design heuristics. However, due to its complexity to cater to various medical and research professionals, it can be disorienting and confusing to use if users are not familiar with its interface. Because Pubmed is a large collaborative project, many design inconsistencies are also present. Read more about [heuristic evaluation](https://github.com/andmnguyen/dh150/tree/master/assignment01) and [usability testing](https://github.com/andmnguyen/dh150/tree/master/assignment02).
 
-![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment01/Screenshot_1.png)
+![alt text](/assignment01/Screenshot_1.png)
 
 
 ## 5) User Research:
