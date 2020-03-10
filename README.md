@@ -28,11 +28,11 @@ Overall, [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) appears to be a usable we
 ![alt text](https://github.com/andmnguyen/dh150/blob/master/assignment01/Screenshot_1.png)
 
 
-## 5) User Research [Contextual Inquiry]:
+## 5) User Research:
 
 Contextual inquiry is incredibly informative on how users think and interpret UX / UI design. As a designer, it may seem intuitive or simple on how to perform normal functions. But at the end of the day, UX / UI design exists to serve users, and should be approache das such. Target users are researchers, scientists, and clinicians working in the health field. Demographics are young to older adults, who prefer efficient and comprehensive modes to access information. Users are likely experts in their respective health and scientific fields. The users can traditionally do these activities at a library or alternatively on Pubmed. To complete this activity, users would type their subject of interest in the search bar, scroll for any interesting articles, open that aricle, and cite that source as needed for research purposes. Read more about [contextual inquiry](https://github.com/andmnguyen/dh150/tree/master/assignment04).
 
-## 6) UX storytelling
+## 6) UX storytelling:
 
 Students, clinicians, and researchers are different personas that may use PubMed. Understanding the perspective of each persona helps develop practical and functional improvements in the new application. We follow the story of three individuals, Natalie, Dr. Wilson, and Dr. Kim, who try to understand their perspective in the PubMed user experience. For each user, we propose a new function in response to user experience scenarios through journey maps. Read [personas and scenarios](https://github.com/andmnguyen/dh150/tree/master/assignment05).
 
@@ -84,4 +84,4 @@ Previously, when viewing the citation and abstract pages in the search results, 
 
 ## 11) conclusion: what you learned throughout the process
 
-For me, the most important learning experience throughout this process was that UX / UI is far more than creating a nice design. I came into the course thinking that i was going to learn how to create aesthetic designs, but UX / UI turned out to be so much more complex and interesting than I imagined. Rather, it is a workflow that supports a sustainable and productive relationship between designer and user that is ultimately user oriented. Although it may seem like so many tedious steps, each step breaks down the creation process to one that places users first. From the impression tests to journey maps, we must place ourselves as close to the the user as possible
+For me, the most important learning experience throughout this process was that UX / UI is far more than creating a nice design. I came into the course thinking that I was going to learn how to create aesthetic designs, but UX / UI turned out to be much more complex. Rather, it is a workflow that supports a sustainable and productive relationship between designer and user that is ultimately user oriented. Although it may seem like so many tedious steps, each step breaks down the creation process to one that places users first. From the impression tests to journey maps, we must place ourselves as close to the the user as possible to understand their mindset. As a result, although the interface may be appear the focus, UX / UI is really just a conduit for users to perform the functions that they'd like to do. In this way, the forefront of UX / UI isn't really UX / UI, but the users themselves. This user oriented approach is not easy, and requires patience, systematic practice, and teamwork with users. Moving forward, I'd like to keep these ideas in mind to structure how I perform UI / UX work, and hope to continue to apply them to create great and efficent designs.
