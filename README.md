@@ -86,6 +86,7 @@ Previously, when viewing the citation and abstract pages in the search results, 
 
 ## 10) Pitch video [update the video after recording your presentation]:
 
+[![Alt text](https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/view?usp=sharing)](https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/view?usp=sharing)
 
 ## 11) conclusion: what you learned throughout the process:
 
