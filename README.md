@@ -86,7 +86,7 @@ Previously, when viewing the citation and abstract pages in the search results, 
 
 ## 10) Pitch video [update the video after recording your presentation]:
 
-[![Pitch video](https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/preview)](https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/preview).
+[![Pitch video](https://www.upei.ca/sites/default/files/styles/crop_header_image/public/116-18N-0104-M.jpg?h=1c60208e&itok=_54xmtpr)](https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/preview).
 
 ## 11) conclusion: what you learned throughout the process:
 
