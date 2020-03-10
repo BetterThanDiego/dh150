@@ -12,11 +12,11 @@ The main activity that users will try to do using Pubmed is citing, opening, and
 
 The following three features are focused on to best optimize the user experience:
 
-Feature 1: Automatic and accessible citation tool.
+#Feature 1: Automatic and accessible citation tool.
 
-Feature 2: Scrolling for search results provides the summary or abstract of an article under the title so that researchers can easily determine if the article of interest is worthy of further reading.
+#Feature 2: Scrolling for search results provides the summary or abstract of an article under the title so that researchers can easily determine if the article of interest is worthy of further reading.
 
-Feature 3: Bolding or highlighting of search bar terminology within publication and article text.
+#Feature 3: Bolding or highlighting of search bar terminology within publication and article text.
 
 It is important to resolve these issues in maintaining and updating a user-friendly forum that discuss topics and discoveries that are foundational to the effectiveness of research. Public health is dependent on the ongoing updates and new developments that research delivers it, and keeping the public up-to-date on this information is vital to improving patient care and health. Publications and updates follow the ever-changing healthcare landscape, and striving for an accessible and optimized user experience helps facilitate this goal.
 
