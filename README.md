@@ -86,7 +86,7 @@ Previously, when viewing the citation and abstract pages in the search results, 
 
 ## 10) Pitch video [update the video after recording your presentation]:
 
-<iframe src="https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/preview" width="640" height="480"></iframe>
+[![Pitch video](https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/preview)](https://drive.google.com/file/d/196lEhmKYNC7wVX4Pt5Tie5zwkG87SfqZ/preview).
 
 ## 11) conclusion: what you learned throughout the process:
 
